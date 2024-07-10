@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://s3dilab.github.io/sitemap.xml
+Sitemap: https://s3di-lab.github.io/sitemap.xml
