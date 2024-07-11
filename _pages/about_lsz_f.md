@@ -7,32 +7,37 @@ personal web:
 
 ## Academic services
 - Secretary - IEEE Information Theory Society Hongkong Chapter
+
 ### Guest editor
 - Journal of Surveillance, Security and Safety, special issue on AI Security and Privacy
 
 - Entropy, special issue on Information Theory for Distributed Systems
+
 ### Area chair
-- MLSys 2023 Workshop on Resource-Constrained Learning in Wireless Networks (MLSys-RCLWN-23)
+- MLSys 2023 Workshop on Resource-Constrained Learning in Wireless Networks **(MLSys-RCLWN-23)**
+
 ### Track chair
-- The 8th International Conference on Computer and Communication Systems (ICCCS-23)
+- The 8th International Conference on Computer and Communication Systems **(ICCCS-23)**
+
 ### TPC member
-- IJCAI 2024 International Workshop on Federated Learning in the Age of Foundation Models (FL@FM-IJCAI 24)
-- IEEE International Conference on Distributed Computing Systems (24)
-- ICLR 2024 Workshop on Privacy Regulation and Protection in Machine Learning (PRIVATE ML@ICLR 2024)
-- NeurIPS 2023 Workshop on Federated Learning in the Age of Foundation Models (FL@FM-NeurIPS 2023)
-- KDD 2023 Workshop on Federated Learning for Distributed Data Mining (FL4Data-Mining-23)
-- ICML 2023 Workshop on Federated Learning and Analytics in Practice (FL-ICML-23)
-- SIGIR 2023 1st Workshop on Federated Learning for Information Retrieval (FLIRT@SIGIR 2023)
-- IJCAI International Workshop on Trustworthy Federated Learning (FL-IJCAI-23)
-- NeurIPS 2022 International Workshop on Federated Learning: Recent Advances and New Challenges (FL-NeurIPS-22)
-- International Conference on Wireless Communications and Signal Processing (WCSP-22)
-- IEEE Region 10 Conference (TENCON-22)
-- IEEE Journal on Selected Areas in Communications, Special Issue on Communication-Efficient Distributed Learning over Networks (JSAC-CEDL-22)
-- IJCAI International Workshop on Trustworthy Federated Learning (FL-IJCAI-22)
-- AAAI International Workshop on Trustable, Verifiable and Auditable Federated Learning (FL-AAAI-22)
-- AAAI Conference on Artificial Intelligence (22, 24)
-- ICML International Workshop on Federated Learning for User Privacy and Data Confidentiality (FL-ICML-21)
-- MobiCom Technologies for the Wireless Edge Workshop (EdgeTech-MobiCom-18)
+- IJCAI 2024 International Workshop on Federated Learning in the Age of Foundation Models **(FL@FM-IJCAI 24)**
+- IEEE International Conference on Distributed Computing Systems **(24)**
+- ICLR 2024 Workshop on Privacy Regulation and Protection in Machine Learning **(PRIVATE ML@ICLR 2024)**
+- NeurIPS 2023 Workshop on Federated Learning in the Age of Foundation Models **(FL@FM-NeurIPS 2023)**
+- KDD 2023 Workshop on Federated Learning for Distributed Data Mining **(FL4Data-Mining-23)**
+- ICML 2023 Workshop on Federated Learning and Analytics in Practice **(FL-ICML-23)**
+- SIGIR 2023 1st Workshop on Federated Learning for Information Retrieval **(FLIRT@SIGIR 2023)**
+- IJCAI International Workshop on Trustworthy Federated Learning **(FL-IJCAI-23)**
+- NeurIPS 2022 International Workshop on Federated Learning: Recent Advances and New Challenges **(FL-NeurIPS-22)**
+- International Conference on Wireless Communications and Signal Processing **(WCSP-22)**
+- IEEE Region 10 Conference **(TENCON-22)**
+- IEEE Journal on Selected Areas in Communications, Special Issue on Communication-Efficient Distributed Learning over Networks **(JSAC-CEDL-22)**
+- IJCAI International Workshop on Trustworthy Federated Learning **(FL-IJCAI-22)**
+- AAAI International Workshop on Trustable, Verifiable and Auditable Federated Learning **(FL-AAAI-22)**
+- AAAI Conference on Artificial Intelligence **(22, 24)**
+- ICML International Workshop on Federated Learning for User Privacy and Data Confidentiality **(FL-ICML-21)**
+- MobiCom Technologies for the Wireless Edge Workshop **(EdgeTech-MobiCom-18)**
+
 ### Journal reviewer (selected)
 - IEEE Transactions on Information Theory
 - IEEE Journal on Selected Areas in Information Theory
@@ -44,11 +49,15 @@ personal web:
 - IEEE Transactions on Wireless Communications
 - IEEE Transactions on Knowledge and Data Engineering
 - IEEE Communication Letters
+
 ### Conference reviewer (selected)
 ISIT, ITW, ICC, NeurIPS, ICML, AAAI, ICASSP, SPAWC, WUWNET.
+
 ## Publications
+---
 ### Journal Papers and Preprints
-[1].H. Hu, Y. Wu, Y. Shi, ****S. Li****, C. Jiang, and W. Zhang, "Communication-Efficient Coded Computing for Distributed Multi-Task Learning," IEEE Transactions on Communications, Apr. 2023.
+---
+[1].H. Hu, Y. Wu, Y. Shi, **S. Li**, C. Jiang, and W. Zhang, "Communication-Efficient Coded Computing for Distributed Multi-Task Learning," IEEE Transactions on Communications, Apr. 2023.
 
 [2].T. Jahani-Nezhad, M. A. Maddah-Ali, **S. Li**, and G. Caire, "Swiftagg+: Achieving asymptotically optimal communication loads in secure aggregation for federated learning," IEEE Journal on Selected Areas in Communications, vol. 41, no. 4, pp. 977–989, Mar. 2023.
 
@@ -75,6 +84,7 @@ ISIT, ITW, ICC, NeurIPS, ICML, AAAI, ICASSP, SPAWC, WUWNET.
 [13]**S. Li**, D. Kao, and A. S. Avestimehr, "Rover-to-Orbiter Communication in Mars: Taking Advantage of the Varying Topology," IEEE Transactions on Communications, Vol. 64, No. 2, Feb. 2016.
 
 ### Conference Papers
+---
 [1].**S. Li**, D. Yao, and J. Liu, "FedVS: Straggler-Resilient and Privacy-Preserving Vertical Federated Learning for Split Models," ICML, July 2023.
 
 [2].Y. Dai and **S. Li**, "Chameleon: Adapting to Peer Images for Planting Durable Backdoors in Federated Learning," ICML, July 2023.
